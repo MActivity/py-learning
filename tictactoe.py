@@ -126,4 +126,4 @@ def play():
         choice()
     reset()
     
-Play
+play()
